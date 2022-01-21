@@ -135,10 +135,17 @@ public class SocketHandle implements Runnable {
                     Client.openView(Client.View.HOMEPAGE);
                     JOptionPane.showMessageDialog(Client.homePageFrm, "Phòng chơi đã đủ 2 người chơi");
                 }
+                // Xử lý không tìm thấy phòng trong chức năng vào phòng
                 if(messageSplit[0].equals("room-not-found")){
                     Client.closeAllViews();
                     Client.openView(Client.View.HOMEPAGE);
                     JOptionPane.showMessageDialog(Client.homePageFrm, "Không tìm thấy phòng");
+                }
+                // Xử lý phòng có mật khẩu sai
+                if(messageSplit[0].equals("room-wrong-password")){
+                    Client.closeAllViews();
+                    Client.openView(Client.View.HOMEPAGE);
+                    JOptionPane.showMessageDialog(Client.homePageFrm, "Mật khẩu phòng sai");
                 }
                 //Xử lý xem rank
                 if(messageSplit[0].equals("return-get-rank-charts")){
