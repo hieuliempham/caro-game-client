@@ -21,7 +21,7 @@ public class LoginFrm extends javax.swing.JFrame {
      */
     public LoginFrm() {
         initComponents();
-        this.setTitle("Caro Game Nhóm 5");
+        this.setTitle("Caro Game LTMTT");
         this.setIconImage(new ImageIcon("assets/image/caroicon.png").getImage());
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setResizable(false);

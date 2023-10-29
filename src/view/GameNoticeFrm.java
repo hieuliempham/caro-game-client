@@ -19,7 +19,7 @@ public class GameNoticeFrm extends javax.swing.JFrame {
      */
     public GameNoticeFrm(String title, String message) {
         initComponents();
-        this.setTitle("Caro Game Nhóm 5");
+        this.setTitle("Caro Game LTMTT");
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         this.setResizable(false);
         this.setLocationRelativeTo(null);

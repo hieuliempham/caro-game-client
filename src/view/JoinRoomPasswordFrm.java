@@ -24,7 +24,7 @@ public class JoinRoomPasswordFrm extends javax.swing.JFrame {
      */
     public JoinRoomPasswordFrm(int room, String password) {
         initComponents();
-        this.setTitle("Caro Game Nhóm 5");
+        this.setTitle("Caro Game LTMTT");
         this.setIconImage(new ImageIcon("assets/image/caroicon.png").getImage());
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         this.setResizable(false);

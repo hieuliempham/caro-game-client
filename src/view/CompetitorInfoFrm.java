@@ -28,7 +28,7 @@ public class CompetitorInfoFrm extends javax.swing.JFrame {
         try {
             initComponents();
             this.user = user;
-            this.setTitle("Caro Game Nhóm 5");
+            this.setTitle("Caro Game LTMTT");
             this.setIconImage(new ImageIcon("assets/image/caroicon.png").getImage());
             this.setResizable(false);
             this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);

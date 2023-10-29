@@ -30,7 +30,7 @@ public class RankFrm extends javax.swing.JFrame {
      */
     public RankFrm() {
         initComponents();
-        this.setTitle("Caro Game Nhóm 5");
+        this.setTitle("Caro Game LTMTT");
         tableModel = (DefaultTableModel) jTable1.getModel();
         this.setIconImage(new ImageIcon("assets/image/caroicon.png").getImage());
         this.setResizable(false);

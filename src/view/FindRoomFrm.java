@@ -28,7 +28,7 @@ public class FindRoomFrm extends javax.swing.JFrame {
      */
     public FindRoomFrm() {
         initComponents();
-        this.setTitle("Caro Game Nhóm 5");
+        this.setTitle("Caro Game LTMTT");
         this.setIconImage(new ImageIcon("assets/image/caroicon.png").getImage());
         this.setResizable(false);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);

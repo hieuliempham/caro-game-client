@@ -3,23 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/CreateRoomPasswordFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/WaitingRoomFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/GameAIFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/GameClientFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/JoinRoomPasswordFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/LoginFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/controller/SocketHandle.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/FriendRequestFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/FindRoomFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/FriendListFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/RoomListFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/RoomNameFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/RankFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/HomePageFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/CompetitorInfoFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/GameNoticeFrm.java</file>
-            <file>file:/C:/Users/Admin/Desktop/LTM/BTL/BTL/CaroClientNhom5/src/view/RegisterFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/LoginFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/CreateRoomPasswordFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/RoomNameFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/controller/SocketHandle.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/GameNoticeFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/RoomListFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/JoinRoomPasswordFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/GameAIFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/FriendRequestFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/FindRoomFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/controller/Client.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/CompetitorInfoFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/FriendListFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/RankFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/WaitingRoomFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/model/Point.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/HomePageFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/RegisterFrm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/CuoiKyCaro/caro-game-client/src/view/GameClientFrm.java</file>
         </group>
     </open-files>
 </project-private>

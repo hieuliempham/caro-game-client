@@ -87,7 +87,7 @@ public class GameClientFrm extends javax.swing.JFrame{
         userWin = 0;
         competitorWin = 0;
         //
-        this.setTitle("Caro Game Nhóm 5");
+        this.setTitle("Caro Game LTMTT");
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         this.setResizable(false);
         this.setLocationRelativeTo(null);
